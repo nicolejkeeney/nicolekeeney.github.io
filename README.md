@@ -1,4 +1,4 @@
-# My personal website
+# Nicole's personal website
 
 [![Build Status](https://github.com/jekyllt/sustain/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyllt/sustain/actions/workflows/jekyll_build.yml)
 [![Ruby](https://img.shields.io/badge/ruby-2.6.3-blue.svg?style=flat)](http://travis-ci.org/jekyllt/sustain)
@@ -7,6 +7,8 @@
 Personal blog built with [Bootstrap](http://getbootstrap.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
 hosted in [Github pages](https://pages.github.com/).
 
+## Notes to self 
+Change colors in static/css/main.css
 
 
 ## Copyright & License
