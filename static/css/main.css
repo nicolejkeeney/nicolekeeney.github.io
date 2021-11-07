@@ -145,13 +145,14 @@ body {
 }
 
 .panel-body-index { 
-  padding-top: -10px;
+  padding-top: -20px;
   text-align: center;
  }
 .social {
-  padding-top: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   word-spacing: 25px;
-  text-align: middle;
+  text-align: center;
 
 }
 .social h4 > a {
