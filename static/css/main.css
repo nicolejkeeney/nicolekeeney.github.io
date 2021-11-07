@@ -43,21 +43,21 @@ body {
 }
 .navbar-default .navbar-nav > li > a {
   color: #6b6b6b;
-  font-size: 25px;
+  font-size: 20px;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   color: #6b6b6b;
-  font-size: 25px;
+  font-size: 20px;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   color: #6b6b6b;
   background-color: #ffffff;
-  font-size: 25px;
+  font-size: 20px;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
   color: #6b6b6b;
   background-color: #ffffff;
-  font-size: 25px;
+  font-size: 20px;
 }
 .navbar-default .navbar-toggle {
   border-color: #ffffff;
