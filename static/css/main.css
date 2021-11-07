@@ -127,6 +127,9 @@ body {
 .panel-default h6 {
   font-size: 15px;
 }
+.panel-default h4 { 
+  text-align: center;
+}
 .panel-default h4 a, h5 a {
   color: #6F36F2;
 }
