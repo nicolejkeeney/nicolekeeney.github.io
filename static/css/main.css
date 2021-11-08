@@ -197,11 +197,11 @@ body {
 .text-muted {
 	color: #6b6b6b;
 }
-/* remove padding at bottom
+
 div.footer{
-  border-bottom: 5px solid #6F36F2;;
+  border-bottom: 5px;
 }
-*/
+
 /* Set the fixed height of the footer here */
 /*.footer {
   height: 50px;
