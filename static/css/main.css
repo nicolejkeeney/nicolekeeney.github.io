@@ -57,7 +57,7 @@ body {
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
   color: #000000;
-  background-color: #ffffff;
+  background-color: #6F36F2;
   font-size: 20px;
 }
 .navbar-default .navbar-toggle {
