@@ -62,9 +62,10 @@ body {
 }
 .navbar-default .navbar-toggle {
   border-color: #ffffff;
+
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #ffffff;
+  background-color: #6F36F2;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #000000;
