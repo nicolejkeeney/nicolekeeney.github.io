@@ -3,9 +3,9 @@
 html,
 body {
   height: 100%;
-  background-color: #fff;
+  background-color: #d8e9ed;
   font-family: 'Source Sans Pro', sans-serif;
-  background-image: url('../img/background.png');
+  /* background-image: url('../img/background.png'); */
   /* The html and body elements cannot have any padding or margin. */
   /* remove top border 
   border-top: 5px solid #6F36F2;
