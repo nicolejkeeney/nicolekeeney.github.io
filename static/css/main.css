@@ -124,7 +124,7 @@ body {
  max-width: 100%;
 }
 .panel-default h4 {
-  text-align: left;
+  text-align: center;
   line-height: 24px;
   font-size: 22px;
 }
@@ -137,7 +137,7 @@ body {
   font-size: 15px;
 }
 .panel-default h4 { 
-  text-align: left;
+  text-align: center;
 }
 .panel-default h4 a, h5 a {
   color: #2453a1;
