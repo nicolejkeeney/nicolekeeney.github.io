@@ -105,10 +105,12 @@ body {
 
 .narrow-column {
   column-width: 300px;
+  padding: 10px;
 }
 
 .wide-column {
   column-width: 500px;
+  padding: 10px;
 }
 
 @media screen and (max-width: 600px) {
