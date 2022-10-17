@@ -14,11 +14,11 @@
 }
 
 .left { 
-  width: 45%;
+  width: 65%;
 }
 
 .right { 
-  width: 55%;
+  width: 35%;
 }
 
 /* Clear floats after the columns */
@@ -27,6 +27,7 @@
   display: table;
   clear: both;
 }
+
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 500px) {
   .column {
@@ -41,8 +42,7 @@
     <div class="panel-body">
       <div class="row">
         <div class="column left">
-          <img src="{{ site.baseurl }}static/img/about_me.jpeg" width="300" alt="About page image"> 
-        </div>
+          <img src="{{ site.baseurl }}static/img/about_me.jpeg" width="300" alt="About page image">        </div>
         <div class="column right">
           <h5> Hi there! Welcome to my website. 
             I'm a scientist with an interest in using computational tools to study the impacts of climate change on the earth system and on human society. 
