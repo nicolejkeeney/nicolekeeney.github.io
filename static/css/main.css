@@ -99,11 +99,18 @@ body {
 /* Custom page CSS
 -------------------------------------------------- */
 
-.column { 
+.column {
   float: left;
-  width: 50%;
   padding: 10px;
- }
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
 
 .container-colored {
   background-color: #ffffff;
